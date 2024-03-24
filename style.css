@@ -1,0 +1,16 @@
+body{
+    background-color:palevioletred;
+    }
+    p{
+       color: rgb(49, 3, 92);
+    }
+    div{
+        color:rgb(4, 4, 143);
+        background-color: antiquewhite;
+        font-weight: bolder;
+    }
+    h1{
+        color: rgb(19, 19, 134);
+       
+    }
+   
